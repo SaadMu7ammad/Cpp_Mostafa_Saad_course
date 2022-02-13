@@ -39,8 +39,8 @@ divi(int x,int y)
 }
 void menu()
 {
-    int choice = -1;
-    while (choice == -1)
+    int choice ;
+    while (true)
     {
         if (true)
         {
