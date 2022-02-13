@@ -37,7 +37,7 @@ divi(int x,int y)
 
     cout<<x/y<<"\n";
 }
-int menu()
+void menu()
 {
     int choice = -1;
     while (choice == -1)
@@ -96,7 +96,6 @@ int menu()
 
 
     }
-    return choice;
 }
 
 
