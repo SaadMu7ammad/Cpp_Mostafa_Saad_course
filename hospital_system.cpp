@@ -114,8 +114,7 @@ void system()
 
             if(Queue[spec]==5)
             {
-                //Queue[spec]--;
-
+               
                 cout << "Sorry we can't add more patients for this specialization\n";
 
             }
@@ -126,7 +125,7 @@ void system()
                 Queue[spec]++;
                 names[spec][0]=name;
                 status[spec][0]=stat;
-                // ++tracker;
+                
 
             }
             else if(stat==0)  //regular
@@ -138,7 +137,7 @@ void system()
                 names[spec][position]=name;
                 status[spec][position]=stat;
                 Queue[spec]++;
-                // ++tracker;
+               
             }
 
 
@@ -157,7 +156,7 @@ void system()
                     for(int j=0; j<Queue[i]; j++)
                     {
 
-                        // int counter=Queue[i];
+                       
 
                         cout<<names[i][j]<<" "<<status[i][j]<<"\n";
 
