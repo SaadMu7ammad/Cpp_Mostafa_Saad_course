@@ -12,6 +12,7 @@ int main()
 {
   //enter number of names  then search by names by prefix 
   // not the optimal solution or not efficient but just using a new idea bu substr()
+    // same idea in file >> Find_Full_names.cpp check'em 
     int q;
     cin>>q;
     vector <string>v;
