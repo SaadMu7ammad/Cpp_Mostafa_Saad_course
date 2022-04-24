@@ -22,14 +22,25 @@ int main()
     cout<<*st.begin()<<" ";
     loop(k,n)
     {
-         st.erase(arr[i-k]);  //erase the fist elemnt which is the bigger one to be ready to recieve a new elemnt 
-        //st.erase(st.begin());
-        st.insert(arr[i]);   //slide the window to the next elemnt in the array and add it to the set
-        cout<<*st.begin()<<" ";  //print the fist elemnt( the max) 
+     st.erase(st.find(arr[i-k])); //erase the fist elemnt which is the bigger one to be ready to recieve a new elemnt 
+      
+     st.insert(arr[i]);   //slide the window to the next elemnt in the array and add it to the set
+     cout<<*st.begin()<<" ";  //print the fist elemnt( the max) 
     }
 //inputs example
     //8
     // 1 3 -1 -3 5 3 6 7
     //3
+    
+    
+    
+      // 1 3 -1 -3 5 3 6 7
+    /*
+    8
+    1 3 -1 3 2 2 6 7
+    3
+
+    */
+    
     return 0;
 }
