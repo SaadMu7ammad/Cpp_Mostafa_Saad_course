@@ -29,7 +29,9 @@ public:
 		return (tot-(GetHours()*3600))/60;
 	}
 	int GetSeconds() {
-		return (tot - ((GetMinutes()*60) +(GetHours()* 3600)));
+		//return (tot - ((GetMinutes()*60) +(GetHours()* 3600))); 
+		// simple way
+		return (tot %60);
 	}
 };
 int main() {
