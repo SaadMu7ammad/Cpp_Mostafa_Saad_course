@@ -8,9 +8,10 @@ some projects on the course
 
 print all patients
 ![print all patients](https://github.com/SaadMu7ammad/Projects_MostafaSaadCourse/blob/main/hopitalsys%20(2).png)
-
+<br>
 cant book an appointment if the number of patients is 5 
 ![alt text](https://github.com/SaadMu7ammad/Projects_MostafaSaadCourse/blob/main/hopitalsys%20(1).png)
+<br>
 
 next patient according to the specs number
 ![alt text](https://github.com/SaadMu7ammad/Projects_MostafaSaadCourse/blob/main/hopitalsys%20(3).png)
