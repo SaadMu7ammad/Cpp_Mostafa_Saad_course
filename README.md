@@ -6,8 +6,10 @@ some projects on the course
 
 [1-Hospital System ](https://github.com/SaadMu7ammad/Projects_MostafaSaadCourse/blob/main/HospitalSystem.cpp)
 
+![print all patients](https://github.com/SaadMu7ammad/Projects_MostafaSaadCourse/blob/main/hopitalsys%20(2).png)
+
+
 ![alt text](https://github.com/SaadMu7ammad/Projects_MostafaSaadCourse/blob/main/hopitalsys%20(1).png)
-![alt text](https://github.com/SaadMu7ammad/Projects_MostafaSaadCourse/blob/main/hopitalsys%20(2).png)
 ![alt text](https://github.com/SaadMu7ammad/Projects_MostafaSaadCourse/blob/main/hopitalsys%20(3).png)
 
 
